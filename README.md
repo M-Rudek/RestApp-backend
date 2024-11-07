@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Project Overview](#ASP.NET-Core-Backend-Application-RestApp)
+1. [Project Overview](#aspnet-core-backend-application-restapp)
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Libraries Used](#libraries-used)
