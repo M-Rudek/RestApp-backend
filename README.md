@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Project Overview](#ASP.NET-Core-Backend-Application "RestApp")
+1. [Project Overview](#ASP.NET-Core-Backend-Application-RestApp)
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Libraries Used](#libraries-used)
@@ -19,7 +19,7 @@
 10. [License](#license)
 11. [Acknowledgments](#acknowledgments)
 
-# ASP.NET Core Backend Application "RestApp"
+# ASP.NET Core Backend Application RestApp
 
 A backend application implementing the logic of a social network. It includes the following:
 - implementation of basic GET, POST, PUT, DELETE queries.
