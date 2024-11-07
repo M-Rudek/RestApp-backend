@@ -1,15 +1,15 @@
 # ASP.NET Core Backend Application "RestApp"
 
 A backend application implementing the logic of a social network. It includes the following:
-- **implementation of basic GET, POST, PUT, DELETE queries.
-- **use of Entity Framework to communicate with MSSql database
-- **error logger
-- **registration, user login
-- **implementation of user roles
-- **user authentication using JWT token 
-- **password hashing
-- **password editing
-- **query authorization with user role
+- implementation of basic GET, POST, PUT, DELETE queries.
+- use of Entity Framework to communicate with MSSql database
+- error logger
+- registration, user login
+- implementation of user roles
+- user authentication using JWT token 
+- password hashing
+- password editing
+- query authorization with user role
 
 It was written in ASP.NET Core.
 
