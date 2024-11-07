@@ -1,3 +1,24 @@
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Prerequisites](#prerequisites)
+4. [Libraries Used](#libraries-used)
+5. [Installation](#installation)
+   - [Cloning the Repository](#cloning-the-repository)
+   - [Setting Up the Database](#setting-up-the-database)
+   - [Running the Application](#running-the-application)
+6. [Configuration](#configuration)
+   - [Logging](#logging)
+   - [Swagger](#swagger)
+7. [Usage](#usage)
+   - [Authentication](#authentication)
+   - [FluentValidation](#fluentvalidation)
+   - [AutoMapper](#automapper)
+8. [API Endpoints](#api-endpoints)
+10. [License](#license)
+11. [Acknowledgments](#acknowledgments)
+
 # ASP.NET Core Backend Application "RestApp"
 
 A backend application implementing the logic of a social network. It includes the following:
@@ -99,7 +120,7 @@ Check out the auto-generated Swagger documentation at https://localhost:5001/swa
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 - ASP.NET Core for providing a robust framework for building web applications.
 - AutoMapper for simplifying object-to-object mapping.
 - FluentValidation for making validation easier and more maintainable.
